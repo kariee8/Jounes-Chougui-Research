@@ -1,14 +1,19 @@
 # Publications
 
-This section contains publications, reports, datasets, and research outputs associated with the Jounes Chougui Research ecosystem.
+This directory is reserved for publication-oriented research outputs associated with Jounes-Chougui-Research.
 
-## Planned Releases
+## Purpose
 
-- Workload 3 Quantum Experiment Report
-- IBM Quantum Circuit Analysis
-- Zenodo DOI Publications
-- Technical Architecture Reports
+Use this folder to organize manuscripts, publication plans, release notes, citation information, and supporting material intended for GitHub Releases, Zenodo deposits, or future scholarly dissemination.
 
-## Status
+## Expected Contents
 
-Under active development.
+- Draft manuscript outlines
+- Publication checklists
+- Citation and DOI notes
+- Release summaries
+- Non-sensitive supplementary documentation
+
+## Guidelines
+
+Do not include secrets, credentials, private algorithms, restricted source code, or security-sensitive implementation details. Publication material should remain professional, neutral, and suitable for public archival platforms.

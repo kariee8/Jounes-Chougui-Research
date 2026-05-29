@@ -1,15 +1,19 @@
 # Quantum Research
 
-This section contains quantum computing experiments, IBM Quantum workloads, OpenQASM circuits, and execution analyses.
+This directory contains public documentation related to quantum computing research and IBM Quantum experiment summaries.
 
-## Areas
+## Purpose
 
-- IBM Quantum Experiments
-- OpenQASM Development
-- Circuit Design
-- Quantum Measurement Analysis
-- Workload Documentation
+Use this folder for high-level experiment descriptions, circuit documentation, backend summaries, measurement notes, entropy analysis, and public evidence summaries.
 
-## Status
+## Expected Contents
 
-Active development.
+- IBM Quantum workload summaries
+- OpenQASM documentation notes
+- Circuit-level descriptions
+- Backend and execution summaries
+- Measurement and distribution analysis
+
+## Guidelines
+
+Do not include private algorithms, credentials, API keys, access tokens, or operational security details. Quantum research documentation should focus on reproducible public context and non-sensitive scientific interpretation.

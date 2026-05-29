@@ -1,18 +1,22 @@
 # Roadmap
 
-Development roadmap and future objectives.
+This directory contains the public research roadmap for Jounes-Chougui-Research.
 
-## Current Goals
+## Purpose
 
-- Complete Workload 3 report
-- Publish first Zenodo record
-- Expand IBM Quantum experiments
-- Improve documentation
-- Build publication portfolio
+Use this folder to track research objectives, planned publications, documentation milestones, and future work at a high level.
 
-## Long-Term Goals
+## Current Priorities
 
-- Peer-reviewed publications
-- Public datasets
-- Research collaborations
-- Open technical reports
+- Complete Workload 3 verification documentation
+- Prepare Zenodo-ready publication material
+- Expand quantum execution evidence summaries
+- Organize public dataset metadata
+- Improve figure and report traceability
+
+## Long-Term Objectives
+
+- Publish stable research releases
+- Maintain DOI-linked archival records
+- Develop public technical reports
+- Support future collaboration and peer review
